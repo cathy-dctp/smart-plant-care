@@ -1,0 +1,25 @@
+# Secrets
+backend/.env
+.env
+
+# Database
+backend/plant_care.db
+plant_care.db
+*.db
+
+# Python
+backend/__pycache__/
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Frontend
+frontend/node_modules/
+node_modules/
+frontend/dist/
+dist/
+.DS_Store
+.vscode/
+.idea/
